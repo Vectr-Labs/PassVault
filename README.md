@@ -23,6 +23,7 @@ Currently only supported for **windows** but will be supported on other platform
 
 ### Known Bugs
 - Copy button on storage page is not functional at the moment.
+- Sometimes you'll get a JSON parsing issue, if this happens restart the application for now.
 
 ### Previews
 ![Generator](/assets/passvault-alpha_generator.png)
