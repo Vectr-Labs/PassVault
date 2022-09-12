@@ -14,6 +14,7 @@ Simple, secure &amp; modern password management application.
 
 ## ⚡Current Features
 *Will be updated/changed*
+
 👉 Generate secure passwords.
 
 👉 See a list and manage your passwords.
