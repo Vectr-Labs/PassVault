@@ -22,7 +22,7 @@ Very early alpha, I'd appreciate bug reports and feature suggestions!
 Currently only supported for **windows** but will be supported on other platforms in beta stage.
 
 ### Known Bugs
-*To be written...*
+- Copy button on storage page is not functional at the moment.
 
 ### Previews
 ![Generator](/assets/passvault-alpha_generator.png)
