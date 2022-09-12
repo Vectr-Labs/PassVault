@@ -1,3 +1,5 @@
+![Banner](/assets/banner.png)
+
 # PassVault
 Simple, secure &amp; modern password management application.
 
