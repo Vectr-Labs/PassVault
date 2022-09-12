@@ -1,5 +1,7 @@
 ![Banner](/assets/banner_logo.png)
 
+👉 [Vectr Labs Discord](https://discord.gg/wVYCMYsZ2K)
+
 # PassVault
 Simple, secure &amp; modern password management application.
 
