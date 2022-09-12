@@ -25,6 +25,9 @@ Currently only supported for **windows** but will be supported on other platform
 - Copy button on storage page is not functional at the moment.
 - Sometimes you'll get a JSON parsing issue, if this happens restart the application for now.
 
+### Contributors
+Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/pulls)!
+
 ### Previews
 ![Generator](/assets/passvault-alpha_generator.png)
 ![Generator](/assets/passvault-alpha_storage.png)
