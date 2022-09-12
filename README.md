@@ -29,5 +29,7 @@ Currently only supported for **windows** but will be supported on other platform
 Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/pulls)!
 
 ### Previews
+*These may be outdated*
+
 ![Generator](/assets/passvault-alpha_generator.png)
 ![Generator](/assets/passvault-alpha_storage.png)
