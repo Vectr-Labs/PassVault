@@ -18,5 +18,5 @@ Currently only supported for **windows** but will be supported on other platform
 *To be written...*
 
 ### Previews
-![Generator](/assets/preview_generator.png)
-![Generator](/assets/preview_storage.png)
+![Generator](/assets/passvault-alpha_generator.png)
+![Generator](/assets/passvault-alpha_storage.png)
