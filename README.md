@@ -16,3 +16,7 @@ Currently only supported for **windows** but will be supported on other platform
 
 ### Known Bugs
 *To be written...*
+
+### Previews
+![Generator](/assets/preview_generator.png)
+![Generator](/assets/preview_storage.png)
