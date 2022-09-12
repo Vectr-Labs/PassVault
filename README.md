@@ -5,6 +5,11 @@
 # PassVault
 Simple, secure &amp; modern password management application.
 
+### Built Using
+- [TailwindCSS](https://tailwindcss.com/)
+- [NextJS](https://nextjs.org/)
+- [Tauri](https://tauri.app/)
+
 ### Current Features
 *Will be updated/changed*
 - Generate secure passwords.
