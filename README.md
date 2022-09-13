@@ -26,8 +26,6 @@ Very early alpha, I'd appreciate bug reports and feature suggestions!
 Currently only supported for **windows** but will be supported on other platforms in beta stage.
 
 ## 🪲 Known Bugs
-👉 Copy button on storage page is not functional at the moment.
-
 👉 Sometimes you'll get a JSON parsing issue, if this happens restart the application for now.
 
 👉 Content will sometimes get an error while rendering the storage page, we are working on a fix for this.
