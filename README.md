@@ -19,7 +19,7 @@ Read more about these features [here](https://github.com/Vectr-Labs/PassVault/di
 👉 [Tauri](https://tauri.app/)
 
 ## ⚡Current Features
-*Will be updated/changed* [Planned Features](https://github.com/Vectr-Labs/PassVault/discussions/4)!
+*Will be updated/changed* [Planned Features](https://github.com/Vectr-Labs/PassVault/discussions/4)
 
 👉 Generate secure passwords.
 
