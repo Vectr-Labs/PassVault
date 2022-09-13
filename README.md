@@ -34,7 +34,7 @@ Currently only supported for **windows** but will be supported on other platform
 ## 🪲 Known Bugs
 👉 Sometimes you'll get a JSON parsing issue, if this happens restart the application for now.
 
-👉 Content will sometimes get an error while rendering the storage page, we are working on a fix for this.
+👉 Sometimes when deleting individual passwords in storage it'll delete a different password, this will be patched.
 
 Please make a new [issue](https://github.com/Vectr-Labs/PassVault/issues) request if you find new bugs.
 
