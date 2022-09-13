@@ -39,6 +39,12 @@ Please make a new [issue](https://github.com/Vectr-Labs/PassVault/issues) reques
 ## ❤️ Contributors
 Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/pulls)!
 
+## ✅ Active Versions
+| Version | Supported          |
+| ------- | ------------------ |
+| 0.2.x   | :white_check_mark: |
+| 0.1.x   | :x:                |
+
 ## 🖼️ Previews
 *These may be outdated*
 
