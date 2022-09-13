@@ -4,7 +4,9 @@
 
 # 🔐 PassVault
 Simple, secure &amp; modern password management application.
+
 More features will be added, currently it is in an alpha stage.
+
 Read more about these features [here](https://github.com/Vectr-Labs/PassVault/discussions/4)!
 
 ## 🚀 Built Using
