@@ -45,6 +45,8 @@ Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/p
 | 0.2.x   | :white_check_mark: |
 | 0.1.x   | :x:                |
 
+**PS**: *It is **NOT** recommended to save passwords with this software in this alpha stage, currently it is testing previews!*
+
 ## 🖼️ Previews
 *These may be outdated*
 
