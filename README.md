@@ -2,7 +2,7 @@
 
 👉 [Vectr Labs Discord](https://discord.gg/wVYCMYsZ2K)
 
-**PS**: *It is **NOT** recommended to save passwords with this software in this alpha stage, currently it is testing previews!*
+**PS**: *It is **NOT** recommended to use/save passwords with this software in this alpha stage, currently it is testing previews!*
 
 # 🔐 PassVault
 Simple, secure &amp; modern password management application.
