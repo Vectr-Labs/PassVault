@@ -31,6 +31,11 @@ Very early alpha, I'd appreciate bug reports and feature suggestions!
 ## 🖥️ Support
 Currently only supported for **windows** but will be supported on other platforms in beta stage.
 
+| Version | Supported          |
+| ------- | ------------------ |
+| 0.2.x   | :white_check_mark: |
+| 0.1.x   | :x:                |
+
 ## 🪲 Known Bugs
 👉 Sometimes you'll get a JSON parsing issue, if this happens restart the application for now.
 
@@ -40,12 +45,6 @@ Please make a new [issue](https://github.com/Vectr-Labs/PassVault/issues) reques
 
 ## ❤️ Contributors
 Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/pulls)!
-
-## ✅ Active Versions
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.2.x   | :white_check_mark: |
-| 0.1.x   | :x:                |
 
 ## 🖼️ Previews
 *These may be outdated*
