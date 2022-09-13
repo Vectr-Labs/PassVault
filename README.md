@@ -51,4 +51,3 @@ Want to be here? Make a [pull request](https://github.com/Vectr-Labs/PassVault/p
 *These may be outdated*
 
 ![Generator](/assets/passvault-alpha_generator.png)
-![Generator](/assets/passvault-alpha_storage.png)
