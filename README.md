@@ -1,5 +1,14 @@
 ![Banner](/assets/banner_logo.png)
 
+
+
+
+# DISCONTINUED
+Will be here as an archive though.
+
+
+
+
 👉 [Vectr Labs Discord](https://discord.gg/wVYCMYsZ2K)
 
 **PS**: *It is **NOT** recommended to use/save passwords with this software in this alpha stage, currently it is testing previews!*
